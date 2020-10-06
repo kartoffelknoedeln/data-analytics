@@ -1,11 +1,19 @@
 # Data analytics.
 The topics at hand will be:
-- 1st-2nd-3rd generation Pokémon
-  - Which type has the largest and smallest families?
-  - Which type strong stats overall?
-  - What were the top five types per stats category?
-  - Which types were introduced?
-  - Which generation introduced the most numbers of legendaries?
+- Pokémon (Generations I & II)
+  - How many different Pokémon were introduced per generation?
+  - How many legendaries are in each generation?
+  - Which types have the largest and smallest families?
+  - Which types have the strongest and weakest stats overall?
+  - Which Pokémon have the strongest and weakest stats overall?
+  - How do the Pokémon types perform for each generation?
+  - Who are the top and bottom Pokémon for each generations?
+  - What about the other stats categories?
+  - How do each individual stats category perform for each generation?
+  - A group within a group: What about just the legendaries?
+  - Can we see each individual Pokémon?
+  - How do the top legendary Pokémon compare to the overall legendary average?
+  - Final Question: What is the overall breakdown of all the Pokémon by their primary and secondary typings?
 - (???)
 - (???)
 - (???)

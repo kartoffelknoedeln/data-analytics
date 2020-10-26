@@ -14,7 +14,17 @@ The topics at hand will be:
   - Can we see each individual Pokémon?
   - How do the top legendary Pokémon compare to the overall legendary average?
   - Final Question: What is the overall breakdown of all the Pokémon by their primary and secondary typings?
-- (???)
+- Bitcoin
+  - What does the price index look like?
+  - What does it look like monthly, quarterly, and annually?
+  - What does it look like during the flat period? the first spike? the second spike? post-COVID?
+  - How long did it take for Bitcoin to recover back to $1,000 and double its value?
+  - How long did the peaks and troughs last?
+  - What was the post-COVID recovery like?
+  - How often did Bitcoin hit certain pricing benchmarks?
+  - What does Bitcoin's volatility look like?
+  - How does the volatility look like monthly, quarterly, and annually?
+  - How many points of extreme volatility were there?
 - (???)
 - (???)
 - (???)

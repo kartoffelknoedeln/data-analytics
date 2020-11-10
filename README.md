@@ -25,7 +25,7 @@ The topics at hand will be:
   - What does Bitcoin's volatility look like?
   - How does the volatility look like monthly, quarterly, and annually?
   - How many points of extreme volatility were there?
-- (???)
+- Eurovision (1975-2019)
 - (???)
 - (???)
 - (???)

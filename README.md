@@ -25,7 +25,17 @@ The topics at hand will be:
   - What does Bitcoin's volatility look like?
   - How does the volatility look like monthly, quarterly, and annually?
   - How many points of extreme volatility were there?
-- Eurovision (1975-2019)
-- (???)
-- (???)
+- Eurovision Song Contest (1975-2019)
+  - Which countries were the top 5 in points acquired per year, decade, century, and overall?
+  - Which countries were the bottom 5 in points acquired per year, decade, century, and overall?
+  - How do the countries perform in overall points by percentages?
+  - Who were the winner for each year?
+  - Who have won the most Eurovision?
+  - Who were the runners-up for each year?
+  - Who have lost the most Eurovision?
+  - How do the winners and runners-up compare in points difference?
+  - What is the percentage breakdown of victories by points differences?
+  - Is there a pattern of points assigning in favour or against other countries?
+  - What are the top 10 giving interactions between countries?
+  - What are the bottom 10 giving interactions between countries?
 - (???)

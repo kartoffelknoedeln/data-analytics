@@ -38,4 +38,7 @@ The topics at hand will be:
   - Is there a pattern of points assigning in favour or against other countries?
   - What are the top 10 giving interactions between countries?
   - What are the bottom 10 giving interactions between countries?
-- (???)
+- The Room
+  - "Oh hi Mark."
+  - "I did not hit her, it's not true, it's bullshit, I did not hit her, I did not."
+  - "You're tearing me apart, Lisa!"

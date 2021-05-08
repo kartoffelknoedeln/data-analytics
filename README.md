@@ -1,44 +1,4 @@
 # Data analytics.
-The topics at hand will be:
-- Pokémon (Generations I & II)
-  - How many different Pokémon were introduced per generation?
-  - How many legendaries are in each generation?
-  - Which types have the largest and smallest families?
-  - Which types have the strongest and weakest stats overall?
-  - Which Pokémon have the strongest and weakest stats overall?
-  - How do the Pokémon types perform for each generation?
-  - Who are the top and bottom Pokémon for each generations?
-  - What about the other stats categories?
-  - How do each individual stats category perform for each generation?
-  - A group within a group: What about just the legendaries?
-  - Can we see each individual Pokémon?
-  - How do the top legendary Pokémon compare to the overall legendary average?
-  - Final Question: What is the overall breakdown of all the Pokémon by their primary and secondary typings?
-- Bitcoin
-  - What does the price index look like?
-  - What does it look like monthly, quarterly, and annually?
-  - What does it look like during the flat period? the first spike? the second spike? post-COVID?
-  - How long did it take for Bitcoin to recover back to $1,000 and double its value?
-  - How long did the peaks and troughs last?
-  - What was the post-COVID recovery like?
-  - How often did Bitcoin hit certain pricing benchmarks?
-  - What does Bitcoin's volatility look like?
-  - How does the volatility look like monthly, quarterly, and annually?
-  - How many points of extreme volatility were there?
-- Eurovision Song Contest (1975-2019)
-  - Which countries were the top 5 in points acquired per year, decade, century, and overall?
-  - Which countries were the bottom 5 in points acquired per year, decade, century, and overall?
-  - How do the countries perform in overall points by percentages?
-  - Who were the winner for each year?
-  - Who have won the most Eurovision?
-  - Who were the runners-up for each year?
-  - Who have lost the most Eurovision?
-  - How do the winners and runners-up compare in points difference?
-  - What is the percentage breakdown of victories by points differences?
-  - Is there a pattern of points assigning in favour or against other countries?
-  - What are the top 10 giving interactions between countries?
-  - What are the bottom 10 giving interactions between countries?
-- The Room
-  - "Oh hi Mark."
-  - "I did not hit her, it's not true, it's bullshit, I did not hit her, I did not."
-  - "You're tearing me apart, Lisa!"
+Topics covered:
+- Eurovision Song Contest (1956 - 2019)
+- Bitcoin (2013Q4 - 2021Q2)
